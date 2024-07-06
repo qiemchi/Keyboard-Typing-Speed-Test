@@ -1,2 +1,2 @@
-# Keyboard-Typing-Speed-Test
-⌨️ A project to delve into HTML, CSS, and JavaScript
+# Typing-Speed-Test-Game
+To learn HTML, CSS, and JavaScript basics
